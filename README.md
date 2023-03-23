@@ -8,3 +8,18 @@ An implementation of the system identification method introduced in the followin
 > https://doi.org/10.1016/j.ifacol.2023.02.018
 
 see https://maruta.github.io/epnet-water-float/ for more explanation.
+
+## Description of the code in this repository
+
+Based on data obtained from the following simulator,
+
+https://user-images.githubusercontent.com/486675/227120797-24969508-8c79-4cf9-b5fa-145cc405021f.mp4
+
+### 1. Genera a model 
+see [generate_model.py](https://github.com/maruta/epnet-water-float/blob/master/generate_model.py)
+
+### 2. Test the model 
+see [test_model.py](https://github.com/maruta/epnet-water-float/blob/master/test_model.py)
+
+https://user-images.githubusercontent.com/486675/227120845-144baa54-5dba-4436-8a4f-9c0eebb8096e.mp4
+
