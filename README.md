@@ -19,5 +19,7 @@ see [generate_model.py](https://github.com/maruta/epnet-water-float/blob/master/
 ### 2. Test the model 
 see [test_model.py](https://github.com/maruta/epnet-water-float/blob/master/test_model.py)
 
+(↓example. nx=3, nonlinear)
+
 https://user-images.githubusercontent.com/486675/227120845-144baa54-5dba-4436-8a4f-9c0eebb8096e.mp4
 
